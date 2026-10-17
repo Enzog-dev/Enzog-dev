@@ -50,3 +50,4 @@ Comecei com meu primeiro site durante o ensino técnico e continuo aprendendo na
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-abreu)
 [![Gmail](https://img.shields.io/badge/Gmail-Falar_comigo-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:enzojj57@gmail.com)
+
